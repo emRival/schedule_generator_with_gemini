@@ -13,4 +13,4 @@ An app that include Artificial Intelligence integration for generating an effect
 - Flutter Framework
 - Dart Programming Language
 - Http Dependencies
-- OpenAI API
+- Gemini API
