@@ -8,8 +8,8 @@ class TaskList extends StatelessWidget {
   const TaskList({
     required this.tasks,
     required this.onRemoveTask,
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context) {
