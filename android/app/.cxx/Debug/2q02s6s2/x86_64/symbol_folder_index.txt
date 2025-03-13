@@ -1,0 +1,1 @@
+/Users/macbook/Downloads/schedule-generator-app-master/build/app/intermediates/cxx/Debug/2q02s6s2/obj/x86_64
